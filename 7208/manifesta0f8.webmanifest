@@ -1,0 +1,19 @@
+{
+  "short_name": "Capital Fm",
+  "name": "Capital Fm",
+  "icons": [
+    {
+      "src": "/app-multi-plataforma/logo-7208.png",
+      "type": "image/png",
+      "sizes": "300x300",
+      "purpose": "any"
+    }
+  ],
+  "description": "xCAST App Multiplataforma (PWA)",
+  "start_url": "https://player.xcast.com.br/player-app-multi-plataforma/7208?app-multi=1729216477",
+  "scope": "/player-app-multi-plataforma/7208",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#4025c4",
+  "background_color": "#4025c4"
+}
