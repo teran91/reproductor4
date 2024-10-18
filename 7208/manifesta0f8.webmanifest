@@ -10,8 +10,8 @@
     }
   ],
   "description": "xCAST App Multiplataforma (PWA)",
-  "start_url": "https://player.xcast.com.br/player-app-multi-plataforma/7208?app-multi=1729216477",
-  "scope": "/player-app-multi-plataforma/7208",
+  "start_url": "https://teran91.github.io/reproductor4/",
+  "scope": "https://teran91.github.io/reproductor4/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#4025c4",
